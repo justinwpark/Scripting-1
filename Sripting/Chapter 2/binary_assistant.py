@@ -1,0 +1,6 @@
+a=int(input('First digit: '))
+b=int(input('Second digit: '))
+c=int(input('Third digit: '))
+d=int(input('Fourth digit: '))
+e= ((a*1)+(b*2)+(c*4)+(d*8))
+print('Result:',(e))
